@@ -1,0 +1,18 @@
+third_party_domains:
+  - google-analytics.com
+  - googletagmanager.com
+  - doubleclick.net
+  - facebook.net
+  - hotjar.com
+  - segment.com
+  - mixpanel.com
+  - newrelic.com
+  - cdn.cookielaw.org
+
+keywords:
+  - gtag(
+  - ga('create'
+  - fbq(
+  - hotjar
+  - mixpanel
+  - _paq.push
